@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{104B3D28-18B8-4D82-8E3A-AC1EAF7953A3}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{104B3D28-18B8-4D82-8E3A-AC1EAF7953A3}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MainSoundBank" ID="{A809A654-8A14-4FB1-9F34-70013CD947FD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_329604__inspectorj__footsteps_muddy_c" ID="{CC47AD00-AA3B-4488-B948-33A3058494E7}" WorkUnitID="{A231B28F-303D-46D6-A284-8EB15D34E371}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver" ID="{77D6BEDA-8050-49AB-B84A-47B10E89C110}" WorkUnitID="{A231B28F-303D-46D6-A284-8EB15D34E371}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

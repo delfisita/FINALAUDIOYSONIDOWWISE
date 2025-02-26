@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b253072a2f13b645941bd2e1b4e921d, type: 3}
+  m_Name: 77D6BEDA-8050-49AB-B84A-47B10E89C110
+  m_EditorClassIdentifier: 
+  objectName: Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver
+  id: 3254981665
+  guid: 77D6BEDA-8050-49AB-B84A-47B10E89C110
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0

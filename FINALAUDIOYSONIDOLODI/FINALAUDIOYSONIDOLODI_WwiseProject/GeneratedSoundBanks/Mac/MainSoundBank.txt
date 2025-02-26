@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2151526124	Play_329604__inspectorj__footsteps_muddy_c			\Default Work Unit\Play_329604__inspectorj__footsteps_muddy_c	
+	3254981665	Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver			\Default Work Unit\Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	680307060	329604__inspectorj__footsteps-muddy-c	C:\Users\PC\Desktop\Nueva carpeta\FINALAUDIOYSONIDOWWISE\FINALAUDIOYSONIDOLODI\FINALAUDIOYSONIDOLODI_WwiseProject\.cache\C6\{C684AC1E-591B-2704-8DCD-9B2180367C02}.wem		\Actor-Mixer Hierarchy\Default Work Unit\329604__inspectorj__footsteps-muddy-c		4881896
+	1037601439	497121__sonidistapo__ambiente-1312-plaza-de-la-dignidad-04-ya-van-a-ver-las-balas-que-nos-tiraron-van-a-volver	C:\Users\PC\Desktop\Nueva carpeta\FINALAUDIOYSONIDOWWISE\FINALAUDIOYSONIDOLODI\FINALAUDIOYSONIDOLODI_WwiseProject\.cache\B9\{B9A0B092-A061-5C30-55BD-38BA69C38C6B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\497121__sonidistapo__ambiente-1312-plaza-de-la-dignidad-04-ya-van-a-ver-las-balas-que-nos-tiraron-van-a-volver		8233056
+

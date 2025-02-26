@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6c06ba285a62248b8bc6ce4376ae68, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Virtual Acoustics
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: ce979337156ec340b926674d368b7f0b
+    ParentPath: Virtual Acoustics\Default Work Unit
+    guid: ce979337156ec340b926674d368b7f0b
+    GuidInternal: 
+    m_lastTime: -8584628126364647721
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Master-Mixer Hierarchy
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 4a95225f56a3404bb1f3e6d6663e99d0
+    ParentPath: Master-Mixer Hierarchy\Default Work Unit
+    guid: 4a95225f56a3404bb1f3e6d6663e99d0
+    GuidInternal: 
+    m_lastTime: -8584628126362701758
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4a95225f56a3404bb1f3e6d6663e99d0
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 283d4b10b818824d8e3aac1eaf7953a3
+    ParentPath: SoundBanks\Default Work Unit
+    guid: 283d4b10b818824d8e3aac1eaf7953a3
+    GuidInternal: 
+    m_lastTime: -8584627982855200075
+    List:
+    - name: MainSoundBank
+      guid: 54a609a8148ab14f9f3470013cd947fd
+      id: 534561221
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 283d4b10b818824d8e3aac1eaf7953a3
+      - ElementName: MainSoundBank
+        ObjectType: 7
+        guid: 54a609a8148ab14f9f3470013cd947fd
+      Path: SoundBanks\Default Work Unit\MainSoundBank
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 8fb231a23d30d646a2848eb15d34e371
+    ParentPath: Events\Default Work Unit
+    guid: 8fb231a23d30d646a2848eb15d34e371
+    GuidInternal: 
+    m_lastTime: -8584627982854806807
+    List:
+    - name: Play_329604__inspectorj__footsteps_muddy_c
+      guid: 00ad47cc3baa8844b94833a3058494e7
+      id: 2151526124
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8fb231a23d30d646a2848eb15d34e371
+      - ElementName: Play_329604__inspectorj__footsteps_muddy_c
+        ObjectType: 3
+        guid: 00ad47cc3baa8844b94833a3058494e7
+      Path: Events\Default Work Unit\Play_329604__inspectorj__footsteps_muddy_c
+      maxAttenuation: 20
+      maxDuration: 0
+      minDuration: 0
+    - name: Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver
+      guid: dabed6775080ab49b84a47b10e89c110
+      id: 3254981665
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8fb231a23d30d646a2848eb15d34e371
+      - ElementName: Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver
+        ObjectType: 3
+        guid: dabed6775080ab49b84a47b10e89c110
+      Path: Events\Default Work Unit\Play_497121__sonidistapo__ambiente_1312_plaza_de_la_dignidad_04_ya_van_a_ver_las_balas_que_nos_tiraron_van_a_volver
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Game Parameters
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: c123b2c0f841c849b2d36f35e11ba654
+    ParentPath: Game Parameters\Default Work Unit
+    guid: c123b2c0f841c849b2d36f35e11ba654
+    GuidInternal: 
+    m_lastTime: -8584628126363136949
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: States
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 8a457b112964cf4d8975f8a24c964b30
+    ParentPath: States\Default Work Unit
+    guid: 8a457b112964cf4d8975f8a24c964b30
+    GuidInternal: 
+    m_lastTime: -8584628126363886358
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Switches
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 6d3db1311fdd4041ae80bbceb908fef6
+    ParentPath: Switches\Default Work Unit
+    guid: 6d3db1311fdd4041ae80bbceb908fef6
+    GuidInternal: 
+    m_lastTime: -8584628126362535766
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Triggers
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: aea062c5c6f7134c805e864018fde9f1
+    ParentPath: Triggers\Default Work Unit
+    guid: aea062c5c6f7134c805e864018fde9f1
+    GuidInternal: 
+    m_lastTime: -8584628126364147961
+    List: []
+  ExpandedFileSystemItemIds: 
+  ExpandedWaapiItemIds: 
+  AutoSyncSelection: 0
+  autoPopulateEnabled: 1
+  currentDataSource: 0
+  CurrentPluginConfig: 

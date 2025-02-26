@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b253072a2f13b645941bd2e1b4e921d, type: 3}
+  m_Name: CC47AD00-AA3B-4488-B948-33A3058494E7
+  m_EditorClassIdentifier: 
+  objectName: Play_329604__inspectorj__footsteps_muddy_c
+  id: 2151526124
+  guid: CC47AD00-AA3B-4488-B948-33A3058494E7
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0
